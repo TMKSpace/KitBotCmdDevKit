@@ -1,7 +1,7 @@
 {
   "name": "kitbotdevkit",
   "version": "0.0.1",
-  "repository": "https://github.com/kotisoff/kitbot.git",
+  "repository": "https://github.com/TMKSpace/KitBotCmdDevKit",
   "author": "kotisoff",
   "license": "MIT",
   "scripts": {
